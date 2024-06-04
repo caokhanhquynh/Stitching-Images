@@ -12,7 +12,7 @@ Image stitching to create panoramas
 
 ## Requirements
 
-MATLAB or Octave
+MATLAB
 Image Processing Toolbox
 Computer Vision Toolbox
 
