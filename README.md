@@ -16,7 +16,7 @@ MATLAB or Octave
 Image Processing Toolbox
 Computer Vision Toolbox
 
-##Installation
+## Installation
 
 1. Clone or download this repository to your local machine.
 2. Ensure MATLAB or Octave is installed with the necessary toolboxes.
