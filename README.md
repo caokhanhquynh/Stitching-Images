@@ -1,6 +1,6 @@
 # Stitching-Images
 
-##Overview
+## Overview
 
 This project involves image processing and computer vision techniques to detect features, match points between image pairs, and create panoramas using the following methods:
 
@@ -10,7 +10,7 @@ Point description and matching
 RANSAC (Random Sample Consensus) for robust matching
 Image stitching to create panoramas
 
-##Requirements
+## Requirements
 
 MATLAB or Octave
 Image Processing Toolbox
